@@ -9,7 +9,7 @@
     "font-awesome-icons": "^1.4.3",
     "glyphicons": "^0.2.0",
     "gulp": "^3.9.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "prop-types": "^15.6.2",
     "react": "^16.3.2",
     "react-bootstrap": "^0.32.1",
